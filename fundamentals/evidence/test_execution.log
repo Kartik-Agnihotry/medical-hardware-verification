@@ -1,0 +1,28 @@
+
+Test ID: TC-001
+Voltage  : 3.333333000 V
+Expected : NORMAL
+Actual   : NORMAL
+Result   : PASS
+----------------------------------------
+
+Test ID: TC-002
+Voltage  : 0.000000500 V
+Expected : LOW_VOLTAGE_FAULT
+Actual   : LOW_VOLTAGE_FAULT
+Result   : PASS
+----------------------------------------
+
+Test ID: TC-003
+Voltage  : 4.999950000 V
+Expected : HIGH_VOLTAGE_FAULT
+Actual   : HIGH_VOLTAGE_FAULT
+Result   : PASS
+----------------------------------------
+
+TEST SUMMARY
+========================================
+Total Tests : 3
+Passed      : 3
+Not Passed  : 0
+Pass Rate   : 100.00%

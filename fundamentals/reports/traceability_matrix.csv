@@ -1,0 +1,4 @@
+Requirement ID,Test ID,Requirement,Result,Evidence
+REQ-001,TC-001,Normal voltage detection,PASS,TC-001_normal.log
+REQ-002,TC-002,Low voltage fault detection,PASS,TC-002_short.log
+REQ-003,TC-003,High voltage fault detection,PASS,TC-003_open.log
