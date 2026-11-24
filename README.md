@@ -195,4 +195,51 @@ cat fundamentals/reports/traceability_matrix.csv
 
 ## Development Roadmap
 
-### Phase 1 — Electronics and
+### Phase 1 — Electronics and Verification Fundamentals
+
+- [x] Voltage divider analysis
+- [x] Circuit simulation
+- [x] Fault injection
+- [x] Python test automation
+- [x] Verification reporting
+- [x] Requirements traceability
+- [ ] RC circuit transient analysis
+- [ ] Analog filter verification
+- [ ] Diode and transistor circuits
+- [ ] Operational amplifier verification
+- [ ] PWM signal analysis
+- [ ] ADC measurement verification
+- [ ] Boundary-value testing
+
+### Phase 2 — Patient Monitoring Subsystem
+
+- [ ] System architecture
+- [ ] Simulated sensor interfaces
+- [ ] STM32 firmware development
+- [ ] Communication protocol verification
+- [ ] PCB design using KiCad
+- [ ] Automated subsystem testing
+
+### Phase 3 — Electrotherapy Signal and Safety Subsystem
+
+- [ ] Low-voltage virtual signal generation
+- [ ] Timing and waveform verification
+- [ ] Simulated dummy-load analysis
+- [ ] Safety-related fault detection
+- [ ] Automated verification and reporting
+
+## Project Limitations
+
+This is an educational, simulation-based engineering project. No physical medical device, patient-connected circuit or clinical testing is involved.
+
+The project does not claim medical device certification, regulatory compliance or clinical validation. Diagnostic thresholds are illustrative engineering requirements.
+
+## Author
+
+**Kartik Agnihotri**
+
+Electronics and Communication Engineering Graduate
+
+Areas of interest: Embedded Systems, Hardware Design, Biomedical Electronics and Hardware Verification.
+
+GitHub: https://github.com/Kartik-Agnihotry
